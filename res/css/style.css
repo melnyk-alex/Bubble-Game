@@ -1,0 +1,16 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    
+    font-size: 0px;
+    
+    cursor: none;
+    
+    height: 100%;
+    
+    /*background-color: rgb(55,55,55);*/
+}
+
+#gameFlow {
+    background-color: rgb(35,35,45);
+}
